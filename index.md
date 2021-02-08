@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: resource
 ---
 
 The [(ASKotec) training module resource meta-data file (resource.yml)](
