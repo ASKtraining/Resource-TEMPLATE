@@ -2,4 +2,4 @@
 layout: default
 ---
 
-{% include resources/MyBigFatTrainingModuleResource.html %}
+{% include_relative resources/MyBigFatTrainingModuleResource.html %}
